@@ -2657,3 +2657,7 @@ content: "";
 	}
 
 }
+
+@media only screen and (min-width:767px) {
+	.selection-pro-boxes{min-height:2000px}
+}
